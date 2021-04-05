@@ -1,4 +1,4 @@
-# Pointy.jl
+    # Pointy.jl
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://glwhart.github.io/Pointy.jl)
 [![Build Status](https://travis-ci.com/glwhart/Pointy.jl.svg?branch=master)](https://travis-ci.com/glwhart/Pointy.jl)

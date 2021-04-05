@@ -1,7 +1,7 @@
 name = "Pointy"
 uuid = "8a99ab59-17de-42fd-a8e5-4c52ccbc678b"
 authors = ["Gus Hart"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1.5"

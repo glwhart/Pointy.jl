@@ -36,5 +36,5 @@ using BenchmarkTools
     @test  slow/fast > 62
     u = [1,1,2]; v = [1,2,1]; w = [2,1,1];
     u,v,w = threeDrotation(u,v,w,π/3,π/5,π/7)
-    @test length(pointgroup(u,v,w)==12)
+    @test length(pointgroup(u,v,w))==12
 end

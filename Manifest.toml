@@ -28,7 +28,7 @@ uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
 
 [[MinkowskiReduction]]
 deps = ["LinearAlgebra", "Random"]
-git-tree-sha1 = "b66b9bbcc6292ac9b8eab088ee05cb4326f3aef1"
+git-tree-sha1 = "ac0e0c36378879132ea30a3f54315c5233b0c547"
 repo-rev = "main"
 repo-url = "https://github.com/glwhart/MinkowskiReduction.jl"
 uuid = "d617d09d-b3c0-43f1-8886-30d89b900f25"
